@@ -25,3 +25,4 @@
 23. Prettier Formatter for Visual Studio Code
 24. Tailwind CSS
 25. vscode-icons
+26. GitLens
